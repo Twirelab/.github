@@ -13,7 +13,7 @@ Specialties:
 - ✅ Cloud & DevOps – Reliable infrastructure and deployment strategies
 
 Looking for a tech partner to bring your project to life? Get in touch!
-📩 lukasz.lupa@twirelab.pl
+📩 contact@twirelab.com
 🌐 More coming soon!
 
 #Twirelab #SoftwareDevelopment #AI #Innovation #WebDevelopment #MobileApps #Automation #UIUX #DevOps
